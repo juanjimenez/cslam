@@ -1,0 +1,17 @@
+N=3 seed=0 inter=143 init=1.37 gtsam=0.68 admm=1.03 admm30%=1.06 dgs=0.671 dgs30%=4.89e+52
+N=3 seed=1 inter=233 init=0.74 gtsam=0.16 admm=0.15 admm30%=0.15 dgs=0.192 dgs30%=4.66e+45
+N=3 seed=2 inter=169 init=2.62 gtsam=0.77 admm=2.43 admm30%=2.74 dgs=12.5 dgs30%=6.31e+48
+N=3 seed=3 inter= 49 init=0.89 gtsam=0.58 admm=0.76 admm30%=0.78 dgs=0.75 dgs30%=4.27e+54
+N=3 seed=4 inter=259 init=0.51 gtsam=0.19 admm=0.22 admm30%=0.23 dgs=0.252 dgs30%=4.68e+60
+N=3 seed=5 inter=305 init=0.76 gtsam=0.15 admm=0.14 admm30%=0.13 dgs=0.134 dgs30%=2.51e+42
+N=3 seed=6 inter=193 init=1.20 gtsam=0.44 admm=0.42 admm30%=0.46 dgs=0.267 dgs30%=2.1e+52
+N=3 seed=7 inter=191 init=1.12 gtsam=0.23 admm=0.27 admm30%=0.27 dgs=0.245 dgs30%=7.95e+56
+N=5 seed=0 inter=643 init=3.72 gtsam=2.10 admm=3.79 admm30%=3.86 dgs=22.4 dgs30%=7.69e+45
+N=5 seed=1 inter=805 init=0.87 gtsam=0.20 admm=0.19 admm30%=0.19 dgs=0.178 dgs30%=6.18e+34
+N=5 seed=2 inter=551 init=0.81 gtsam=0.15 admm=0.15 admm30%=0.19 dgs=0.143 dgs30%=5.89e+39
+N=5 seed=3 inter=1044 init=1.81 gtsam=0.08 admm=0.16 admm30%=0.33 dgs=0.154 dgs30%=9.29e+49
+N=5 seed=4 inter=786 init=1.24 gtsam=0.60 admm=0.21 admm30%=0.19 dgs=13.8 dgs30%=3.65e+55
+N=5 seed=5 inter=760 init=1.85 gtsam=0.16 admm=0.17 admm30%=0.20 dgs=0.171 dgs30%=4.73e+51
+N=5 seed=6 inter=788 init=1.35 gtsam=0.61 admm=1.18 admm30%=1.18 dgs=15.5 dgs30%=1.35e+48
+N=5 seed=7 inter=476 init=1.09 gtsam=0.14 admm=0.12 admm30%=0.14 dgs=0.129 dgs30%=3.09e+49
+[1420s]
